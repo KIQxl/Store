@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caiaque\\Desktop\\projects\\Store\\Store.Domain\\Store.Domain.csproj": {}
+    "C:\\repositorio git\\Store\\Store.Domain\\Store.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caiaque\\Desktop\\projects\\Store\\Store.Domain\\Store.Domain.csproj": {
+    "C:\\repositorio git\\Store\\Store.Domain\\Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caiaque\\Desktop\\projects\\Store\\Store.Domain\\Store.Domain.csproj",
+        "projectUniqueName": "C:\\repositorio git\\Store\\Store.Domain\\Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "C:\\Users\\Caiaque\\Desktop\\projects\\Store\\Store.Domain\\Store.Domain.csproj",
-        "packagesPath": "C:\\Users\\Caiaque\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caiaque\\Desktop\\projects\\Store\\Store.Domain\\obj\\",
+        "projectPath": "C:\\repositorio git\\Store\\Store.Domain\\Store.Domain.csproj",
+        "packagesPath": "C:\\Users\\kaiqu\\.nuget\\packages\\",
+        "outputPath": "C:\\repositorio git\\Store\\Store.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Caiaque\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kaiqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

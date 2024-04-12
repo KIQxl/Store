@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XPvhlfrr0hM5zPX/2LCiCf5a0jLzdoTY4y5/v8x6i6LcNX4pUqAjMvS5OI8DJ2XdemetDT6yU/0bMdn2wMyCNw==",
+  "dgSpecHash": "POqFd8tzatgHmOWBtM21/StcCIy1cCvNmPmA2Tqf9OM6K5WGT5GZPgBd6TJ4jGGDpk8iBwwJzRMyzcewSEQGxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caiaque\\Desktop\\projects\\Store\\Store.Domain\\Store.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\repositorio git\\Store\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiqu\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
