@@ -9,7 +9,8 @@ namespace Store.Domain.Entities
         {
             AddNotifications( new Contract()
                 .Requires()
-                .IsNotNull(customer, "Customer", "O usúario não pode ser nulo")    
+                .IsNotNull(customer, "Customer", "O usúario não pode ser nulo")
+                .IsGreaterOrEqualsThan(deliveryFee, 0, "deliveryFee", "Valor de frete não pode ser negativo")  
             );
 
             Customer = customer;

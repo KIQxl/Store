@@ -33,19 +33,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kaiqu\\.nuget\\packages\\": {}
+    "C:\\Users\\Caiaque\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repositorio git\\Store\\Store.Domain\\Store.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Caiaque\\Desktop\\projects\\Store\\Store.Domain\\Store.Domain.csproj",
       "projectName": "Store.Domain",
-      "projectPath": "C:\\repositorio git\\Store\\Store.Domain\\Store.Domain.csproj",
-      "packagesPath": "C:\\Users\\kaiqu\\.nuget\\packages\\",
-      "outputPath": "C:\\repositorio git\\Store\\Store.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Caiaque\\Desktop\\projects\\Store\\Store.Domain\\Store.Domain.csproj",
+      "packagesPath": "C:\\Users\\Caiaque\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Caiaque\\Desktop\\projects\\Store\\Store.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kaiqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Caiaque\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -92,7 +92,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
